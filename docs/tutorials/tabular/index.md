@@ -29,6 +29,12 @@ For standard datasets that are represented as tables (stored as CSV file, parque
   In-depth tutorial on controlling various aspects of model fitting.
 :::
 
+:::{grid-item-card} Handling Imbalanced Data
+  :link: tabular-imbalanced-data.html
+
+  Learn how to handle imbalanced datasets with AutoGluon Tabular, including using appropriate evaluation metrics and class weighting.
+:::
+
 :::{grid-item-card} Data Tables Containing Image, Text, and Tabular
   :link: tabular-multimodal.html
 
@@ -93,6 +99,7 @@ hidden: true
 
 Essentials <tabular-essentials>
 In Depth <tabular-indepth>
+Handling Imbalanced Data <tabular-imbalanced-data>
 How It Works <how-it-works>
 Feature Engineering <tabular-feature-engineering>
 Tabular + Text + Images <tabular-multimodal>
